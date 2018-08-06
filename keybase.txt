@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/jamiejquinn
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://jamiejquinn.com
+  * I am jamiejquinn (https://keybase.io/jamiejquinn) on keybase.
+  * I have a public key ASBUn63Wt1ckxxnt-8NS7SNLxtabiMneCB6gE3aFDEer7Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101bc5f0efe0e9e2bf03018352d553341946d2ecb3bfb00e692e1da9cfb1b7761cb0a",
+      "host": "keybase.io",
+      "kid": "0120549fadd6b75724c719edfbc352ed234bc6d69b88c9de081ea01376850c47abec0a",
+      "uid": "c1ab43d3bf1749c7ac382c5fe68bd019",
+      "username": "jamiejquinn"
+    },
+    "merkle_root": {
+      "ctime": 1533580075,
+      "hash": "7e1f16fa2b80555c10f266fc029a9c23ca86a1b61cef08c4b2bb81f274ae362664671ba6e51058ed30e20fc882f29190ddf47f18b07d1d7db73a4df34415fa32",
+      "hash_meta": "ce81fdf8ffb46a9dad8749a005abcb185a07ef03e3915b7cb80784fe714fe099",
+      "seqno": 3415725
+    },
+    "service": {
+      "entropy": "o1/PjtbHy8yEGH1Jd/L0g0tI",
+      "hostname": "jamiejquinn.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.5.0"
+  },
+  "ctime": 1533580080,
+  "expire_in": 504576000,
+  "prev": "7c500c7291565e352781246264aa9cf8589c33e2197432ea1c1050f439fb0467",
+  "seqno": 16,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgVJ+t1rdXJMcZ7fvDUu0jS8bWm4jJ3ggeoBN2hQxHq+wKp3BheWxvYWTESpcCEMQgfFAMcpFWXjUngSRiZKqc+FicM+IZdDLqHBBQ9Dn7BGfEIOrQemGALdybHGtlZJkt2d1CicNNKCiZBaEYPn5g2lq0AgHCo3NpZ8RA9tcOHZ5MetQFRVydLWXaM4GeSg90GB8qOIIh/w29OEmXIK4VqPPAPkcGCSJUURHYhDK9mRz2jVOFpF1+UnI2CahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIM6lmoevy2mDFo9DLRm1fWrmQ0wf3c+bBdHgG/kZEUxio3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jamiejquinn
+
+==================================================================
